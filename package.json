@@ -1,11 +1,10 @@
 {
   "name": "react-boilerplate",
   "version": "0.1.0",
-  "description": "",
   "main": "src/index.js",
   "scripts": {
-    "build":"webpack",
-    "start":"node dist/main.js",
+    "build": "webpack",
+    "start": "node dist/main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -19,5 +18,15 @@
   "devDependencies": {
     "webpack": "^4.27.1",
     "webpack-cli": "^3.1.2"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelOnTheDrive/react-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AngelOnTheDrive/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/AngelOnTheDrive/react-boilerplate#readme",
+  "description": ""
 }
