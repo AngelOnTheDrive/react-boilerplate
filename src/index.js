@@ -1,1 +1,2 @@
-console.log('Hey React world');
+import greeting from './greet';
+console.log(greeting);
